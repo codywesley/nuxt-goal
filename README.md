@@ -1,7 +1,9 @@
+# nuxt goal
+$ cd movieapp
+
 # movieapp
 
 ## Build Setup
-
 ```bash
 # install dependencies
 $ npm install
